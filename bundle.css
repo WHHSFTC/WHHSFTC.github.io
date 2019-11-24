@@ -1,0 +1,13 @@
+.container.svelte-1tu6pzb{display:flex;flex-direction:column;align-items:center;padding:50px;font-family:sans-serif}.navigationContainer.svelte-1tu6pzb{display:flex}.navigation.svelte-1tu6pzb{margin:10px}.pages.svelte-1tu6pzb{display:flex;flex-direction:column-reverse}.page.svelte-1tu6pzb{display:flex;justify-content:space-between;margin:10px}.page.svelte-1tu6pzb:last-child{background-color:rgba(0, 0, 0, 0.1)}.delete.svelte-1tu6pzb{margin-left:20px}
+#container.svelte-1kcw3no{padding:50px;display:flex;flex-direction:column;align-items:center;font-family:sans-serif}#fields.svelte-1kcw3no{display:flex;flex-direction:column}
+.container.svelte-h9z6wo{display:flex;flex-direction:column;align-items:center;padding:50px;font-family:sans-serif}.row.svelte-h9z6wo{display:flex;justify-content:space-between;align-items:center}input.svelte-h9z6wo{width:200px;height:50px;padding:0 15px;font-size:18px;border-radius:0;border:5px solid black}.hidden.svelte-h9z6wo{display:none
+ }.padded.svelte-h9z6wo{margin:10px}
+div.svelte-3jlzdz{height:50px;line-height:50px;padding:0 25px;user-select:none;border:5px solid black}div.svelte-3jlzdz:hover{background-color:rgba(0, 0, 0, 0.1)}
+.field.svelte-1enhrwl{display:flex;padding:10px;align-items:center;justify-content:space-between}.label.svelte-1enhrwl{padding-right:25px;font-size:18px}
+.container.svelte-1ocegrm{width:100%;display:flex;align-items:center;justify-content:space-between;font-size:18px}.checkbox.svelte-1ocegrm,.checked.svelte-1ocegrm{width:20px;height:20px;border:5px solid black}.checkbox.svelte-1ocegrm:hover{background-color:rgba(0, 0, 0, 0.1)}.checked.svelte-1ocegrm{background-color:black}
+.container.svelte-1cwtu9x{display:flex;align-items:center;padding:0 0 10px 0}.padded.svelte-1cwtu9x{padding:0 10px}span.svelte-1cwtu9x{font-size:18px;font-weight:bold}
+select.svelte-q2dnlp{font-size:18px;border:5px solid black;height:50px}
+input.svelte-vynvz7{width:100px;height:50px;padding:0 15px;font-size:18px;-moz-appearance:textfield;border-radius:0;border:5px solid black}
+.container.svelte-1gjwccd{margin:50px;display:flex;flex-direction:column;justify-content:center;font-family:sans-serif}
+
+/*# sourceMappingURL=bundle.css.map */

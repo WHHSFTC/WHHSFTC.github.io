@@ -1,0 +1,8 @@
+{
+    "name": "Scoutapp",
+    "icons": [
+	"src": "icon.png",
+	"sizes": "150x148",
+	"type": "image/png"
+    ]
+}
