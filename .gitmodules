@@ -1,0 +1,3 @@
+[submodule "ScoutApp"]
+	path = ScoutApp
+	url = git@github.com:liudean2023/ScoutApp.git
